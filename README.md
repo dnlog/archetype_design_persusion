@@ -7,9 +7,9 @@
 
 ### - First Assignment
 Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
-1. [Dominique](dominique_logan.md)
-2. [David](david_jimenez.md)
-3. [Justin](justin_santiago.md)
+1. [Dominique Logan](dominique_logan.md)
+2. [David Jimenez](david_jimenez.md)
+3. [Justin Santiago](justin_santiago.md)
 
 ## Archetypes 1-12
 - [Sage](sage.md)
