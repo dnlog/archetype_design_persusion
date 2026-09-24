@@ -11,8 +11,9 @@ Put each group members name, archetype, and a link to their page that explains w
 2. [David](david_jimenez.md)
 3. [Justin](justin_santiago.md)
 
-## Archtypes 1-12
+## Archetypes 1-12
 - [Sage](sage.md)
+- [Hero](hero.md)
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism
 ### Modernism - 6 styles
