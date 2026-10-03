@@ -25,13 +25,13 @@ Below is each members name, their archetype, and a link to their page explaining
 - [The Sage](brand-archetypes/sage.md)
 
 ## Cialdini's 7 Methods of Persuasion
-1. [Authority](authority.md)
-2. [Consistency](consistency.md)
-3. [Liking](liking.md)
-4. [Reciprocity](reciprocity.md)
-5. [Scarcity](scarcity.md)
-6. [Social Proof](social-proof.md)
-7. [Unity](unity.md)
+1. [Authority](methods-of-persuasion/authority.md)
+2. [Consistency](methods-of-persuasion/consistency.md)
+3. [Liking](methods-of-persuasion/liking.md)
+4. [Reciprocity](methods-of-persuasion/reciprocity.md)
+5. [Scarcity](methods-of-persuasion/scarcity.md)
+6. [Social Proof](methods-of-persuasion/social-proof.md)
+7. [Unity](methods-of-persuasion/unity.md)
 ## Design Styles Within Modernism & Postmodernism
 Below, we have collected examples of architectural design that reflect modernist and postmodernist styles.
 ### Modernism - 6 styles
