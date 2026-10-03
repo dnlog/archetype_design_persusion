@@ -38,6 +38,14 @@ Being a Hero means I am not content to simply exist; I want to make an impact. I
 
 At my core, I am someone who is ready to act, adapt, and lead when it matters most. I am not afraid of hard work; I am motivated by it. I am not here to stay comfortable; I am here to build, overcome, and achieve. That is the Hero, and that is why I believe this archetype fits me.
 
+## About Me
+
+I am David Jimenez, a student and contributor to this archetype design project. I am interested in understanding how archetypes and design styles communicate ideas and shape the way people experience a project.
+
+## My Overall Role in the Project
+
+My overall role has been to contribute to the project's archetype and design-style work. I have worked on half of the archetypes and completed all of the postmodernism styles. This work has helped me connect the project's broader design ideas with the individual archetypes and styles.
+
 ## Conclusion
 
 I am the Hero because I am driven by challenge, purpose, and the will to overcome. I value effort, courage, and the strength to keep moving when things get difficult. I am drawn to opportunities to prove myself, improve, and make a meaningful impact. My strength is not in avoiding struggle, but in confronting it with determination.
