@@ -50,4 +50,6 @@ Below, we have collected examples of architectural design that reflect modernist
 6. [City of Arts and Sciences by Santiago Calatrava](post_modernism_style_6.md)
 
 ## Examples of Original Brand Advertising
-1. 
+1. [The Modern Everyman's Unity T-Shirt](design-style-example-1.md)
+2. [The Postmodern Hero's Consistent Backpack](design-style-example-2.md)
+3. [The Modern Lover's Liking Coffee](design-style-example-3.md)
