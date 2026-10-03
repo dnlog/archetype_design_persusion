@@ -30,6 +30,110 @@ I want my products to be reliable. I want my products to help the customer and n
 **Emotional benefit:** Confidence
 **Target audience:** Athletes and physically active people
 
+# Archetype Style & Persuasion Guide
+
+The following sections connect each archetype used in this brand concept to both **Modern** and **Postmodern** visual styles, along with two relevant **Cialdini persuasion principles**.
+
+## Hero
+
+**Modern style example:**
+- Clean geometric layouts
+- Bold sans-serif typography
+- High-contrast black, white, and gray palette
+- Technical product photography
+- Precise grids and strong visual hierarchy
+- Imagery focused on strength, performance, and measurable durability
+
+**Postmodern style example:**
+- Layered graphics and unconventional compositions
+- Distressed or fragmented typography
+- Collage-style athlete photography
+- Unexpected combinations of technical graphics and expressive imagery
+- Deliberate contrast between polished product shots and rough textures
+- Visual references to sports, streetwear, and popular culture
+
+**Two persuasion principles:**
+1. **Authority** — Demonstrate strength through durability tests, technical specifications, construction details, and measurable performance.
+2. **Commitment & Consistency** — Connect the product to repeated training and the customer's commitment to improving and pushing themselves.
+
+---
+
+## Explorer
+
+**Modern style example:**
+- Minimal layouts with large photographic landscapes
+- Clean typography and generous whitespace
+- Neutral colors with one outdoor-inspired accent
+- Product photography in mountains, trails, and remote environments
+- Maps, coordinates, and technical diagrams used sparingly
+
+**Postmodern style example:**
+- Layered maps, photographs, stickers, and travel graphics
+- Mixed typography and intentionally irregular layouts
+- Collage imagery showing multiple destinations or experiences
+- Retro outdoor references combined with contemporary graphics
+- Visual storytelling that emphasizes discovery rather than strict order
+
+**Two persuasion principles:**
+1. **Liking** — Show relatable people using the product during real adventures and outdoor activities.
+2. **Unity** — Create a shared identity around people who explore, travel, train, and seek new experiences.
+
+---
+
+## Caregiver
+
+**Modern style example:**
+- Soft but structured layouts
+- Accessible typography with clear information hierarchy
+- Warm white, light gray, and muted natural colors
+- Friendly photography showing people supporting one another
+- Simple product explanations focused on comfort, reliability, and usefulness
+
+**Postmodern style example:**
+- Personal photographs and scrapbook-inspired compositions
+- Handwritten or mixed typography
+- Layered notes, testimonials, and personal messages
+- Nostalgic imagery combined with contemporary product photography
+- Imperfect compositions that make the brand feel personal and human
+
+**Two persuasion principles:**
+1. **Reciprocity** — Give customers useful resources such as clothing-care guides, training information, or practical tips before asking for a purchase.
+2. **Unity** — Position the brand as part of a supportive community that looks after its members and helps them succeed.
+
+---
+
+## Sage
+
+**Modern style example:**
+- Highly organized grids
+- Technical diagrams, charts, and specifications
+- Restrained black, white, gray, and blue palette
+- Clean sans-serif typography
+- Close-up photography of materials and manufacturing details
+- Evidence presented in a clear, systematic format
+
+**Postmodern style example:**
+- Remix technical information with editorial layouts
+- Combine charts, annotations, photographs, and historical references
+- Use contrasting typefaces and unexpected information placement
+- Present product testing as an investigative visual story
+- Mix scientific/technical imagery with cultural or editorial imagery
+
+**Two persuasion principles:**
+1. **Authority** — Establish credibility through testing data, material specifications, engineering details, and transparent product information.
+2. **Social Proof** — Support claims with customer experiences, athlete use, reviews, testing results, and documented performance.
+
+---
+
+# Modern vs. Postmodern Summary by Archetype
+
+| Archetype | Modern Style | Postmodern Style | Persuasion Principles |
+|---|---|---|---|
+| **Hero** | Technical, bold, structured, performance-focused | Distressed, layered, expressive, streetwear-influenced | Authority; Commitment & Consistency |
+| **Explorer** | Minimal, spacious, outdoors-focused | Collage, maps, mixed media, travel-inspired | Liking; Unity |
+| **Caregiver** | Warm, accessible, organized, reassuring | Personal, nostalgic, scrapbook-inspired | Reciprocity; Unity |
+| **Sage** | Technical, systematic, evidence-driven | Editorial, mixed-media, information-rich | Authority; Social Proof |
+
 ---
 
 # Cialdini's Principles Applied to the Brand
